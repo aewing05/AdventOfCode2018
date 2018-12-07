@@ -1,6 +1,3 @@
-# advent - 404169-20181201-03e53c62
-
-### Day 1 ###
 import itertools
 
 # Part 1
